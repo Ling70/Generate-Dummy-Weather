@@ -32,7 +32,6 @@ sta_list = {"SYD": "Sydney, Australia", "MEL": "Melbourne, Australia", "ADL": "A
             "PER": "Perth, Australia", "BRB": "Brisbane, Australia", "DAR": "Darwin, Australia", 
             "HOB": "Hobart, Australia", "CAN": "Canberra, Australia", 
             "NTL": "Newcastle, Australia", "OOL": "Gold Coast, Australia"}
-sta_cycle = itertools.cycle(sta_list.keys())
 
 # declare weather condition, I was not able to find historical data, so this is assumption based on experience
 w_conditions = {"Sunny": {"temperature": (10, 46.5), "pressure": (1000, 1200), "humidity": (10, 40)},
