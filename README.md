@@ -13,10 +13,7 @@ Set up
 
 1. You need python 3.6 to run this code. 
 
-2. Please install the following libraries: 
-    pip install geopy
-    pip install rasterio
-    pip install pyproj
+2. Please install the following libraries: geopy / rasterio / pyproj
     
 3. Save "temperature_scope.csv" file at the same directory as GenerateWeather.py.
 
