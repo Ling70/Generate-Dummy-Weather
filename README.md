@@ -29,4 +29,4 @@ Set up
 
 Run
 
-Run python classifier.py to generate data, output file name "weather_data.dat"
+Run python GenerateWeather.py to generate data, output file name "weather_data.dat"
